@@ -1,0 +1,152 @@
+= Rick van Schijndel
+Curriculum Vitae
+
+[[personal-info]]
+Personal information
+--------------------
+
+he Netherlands +
+Year of birth: 1997
+
+rick.v.s@hotmail.com +
+https://github.com/Mindavi[Github] +
+https://www.linkedin.com/in/rick-van-schijndel-5b3431145[Linkedin] +
+
+image:images/me.jpg[Me, 250]
+
+[[aboutme]]
+About me
+--------
+
+4th year ICT student with experience in both hardware programming and front-end development.
+Passionate about learning to be a better programmer and architecting software
+for maintability, usability and durability.
+Interested in embedded software engineering and electrical engineering.
+Values quality over quantity.
+
+<<<
+
+[[education]]
+Education
+---------
+
+[cols="1,3,3"]
+|===
+|2015 - now  |Fontys University Eindhoven |Information & Communication Technology
+|2017 - 2018 |Autarco |Internship, creating a wiring diagram for pv installers
+|June 2016   |Fontys University Eindhoven |Information & Communication Technology - Propedeuse
+|2009 - 2015 |Commanderij College Sleutelbosch Gemert |VWO - NG
+|===
+
+[[work]]
+Work
+----
+
+Prodrive Technologies (October 2018 - now)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Develop tests to automatically test PCB assemblies
+
+Autarco (2017 - September 2018)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Improving documentation on development environment setup
+* Support getting automated testing up and running
+* Design and implementation of wiring diagram generation application from scratch
+* Design and implementation of custom json file to domain model parser
+* Develop and use tools to do hardware compliance testing
+
+Bepex Logistics (2016 - September 2018)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Responsible for delivering packages to customers
+
+<<<
+
+[[projects]]
+Projects
+--------
+
+*Bikeshift (2017-2018)*
+
+* Sensor module to gather air quality data when cycling
+* Low power IoT device
+* Embedded software for ESP32 microcontroller
+* Data analysis
+* Temperature, humidity, accelero, pm2.5 and pm10 (fine dust) sensors
+
+*'t Vunzig belletje*
+
+* Two random persons on a festival that get encouraged to have a phone
+call about 'dirty' subjects
+* Software implementation on a Raspberry Pi
+* Realisation of the infrastructure
+
+*SolarGraph (2018)*
+
+* Android app to show some basic information about a photovoltaic system
+* Kotlin, GSON, Retrofit, RxJava
+
+*Wiring diagram generator (2017-2018)*
+
+* Visualise how to wire a photovoltaic system to a system installer
+* Design and implementation from scratch
+* php, html, svg, wkhtmltopdf
+
+*Sensor Grid (2017)*
+
+* Multiple distance sensors get connected to each other and to a master,
+for this a protocol and firmware for the master and the nodes are needed.
+* Master-slave architecture with own protocol suited to requirements.
+* C, STM32F100 board, STM VL53L0X distance sensor, ChibiOS
+
+*Datawall (2016)*
+
+* Presents all kinds of data from inside the school in an abstract way to people
+in the building.
+* Server-client structure with MQTT broker.
+* Node.js, Arduino (C++)
+
+*Tunnel of Light (2016)*
+
+* Art project GLOW Eindhoven 2016.
+* Interactive art installation with lights.
+* Created the software to create a touchscreen out of a glass plate and cameras,
+with the help of infrared light.
+* C++, OpenCV, cameras
+* https://www.ed.nl/glow/glow-2016-bijna-ten-einde-veel-bezoekers-genoten-van-tunnel-of-light-video~a54186ab/[Article in ED]
+* https://www.youtube.com/watch?v=SD17oQb9Jc0[Touchscreen demo]
+
+<<<
+
+[[languages-and-technologies]]
+Languages and Technologies
+--------------------------
+
+|===
+|*Programming Languages* |Python, C, C++,
+C#, php, Java, Kotlin
+
+|*Markup Languages* |Asciidoc, Markdown, LaTeX
+
+|*Version Control* |Git
+
+|*Work tracking tools* |JIRA
+
+|*Software architecture* |Domain driven design
+
+|*Documentation methods* |SMART, STARR, UML
+
+|*Reverse engineering* | Apktool
+
+|*Hardware* |Arduino, STM microcontroller, RP6 robot, cameras,
+different kinds of sensors, PLC
+
+|*Languages* |English, Dutch
+|===
+
+[[hobbys]]
+Hobbys
+------
+
+Open source, gaming, reading, movies, walking, home automation
