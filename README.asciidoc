@@ -88,6 +88,7 @@ Projects
 * Data analysis
 * Temperature, humidity, accelero, pm2.5 and pm10 (fine dust) sensors
 * Running for the Fontys ICTalent award
+* Tools for talking to a web API
 
 *'t Vunzig belletje*
 
