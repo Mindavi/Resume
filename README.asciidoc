@@ -52,7 +52,7 @@ Prodrive Technologies (February 2019 - now)
 Prodrive Technologies (October 2018 - February 2019)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Develop tests to automatically test PCB assemblies
+* Develop tests to automatically test PCBA
 
 Autarco (2017 - September 2018)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
