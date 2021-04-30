@@ -18,11 +18,22 @@ image:images/me.jpg[Me, 250]
 About me
 --------
 
-4th year ICT student with experience in both hardware programming and front-end development.
+I tend to be on the background until I get the chance to talk about something
+I'm passionate about.
+
+Since I was young I always wanted to be an inventor, and I think with software
+(and some hardware sometimes) I can really be the inventor I always wanted to be.
+
+What I really love to do is go deep on a subject and learn everything there is
+to know about it. I really like to work with deep focus on a project and learn
+everything that's needed to understand and own it.
+
 Passionate about learning to be a better programmer and architecting software
 for maintability, usability and durability.
 Interested in embedded software engineering and electrical engineering.
 Values quality over quantity.
+
+I like to work on both software and hardware, with a focus on hardware.
 
 <<<
 
@@ -32,8 +43,8 @@ Education
 
 [cols="1,3,3"]
 |===
-|2019 - now  |Prodrive Technologies|Graduation internship, creating a tool for finding shorts on PCBA
-|2015 - now  |Fontys University Eindhoven |Information & Communication Technology
+|2019 - 2019 |Prodrive Technologies|Graduation internship, creating a tool for finding shorts on PCBAs
+|2015 - 2019 |Fontys University Eindhoven |HBO - Information & Communication Technology
 |2017 - 2018 |Autarco |Internship, creating a wiring diagram for pv installers
 |June 2016   |Fontys University Eindhoven |Information & Communication Technology - Propedeuse
 |2009 - 2015 |Commanderij College Sleutelbosch Gemert |VWO - NG
@@ -43,8 +54,17 @@ Education
 Work
 ----
 
-Prodrive Technologies (February 2019 - now)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Prodrive Technologies (September 2019 - now)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Production test development
+  * Create test hardware and applications for industrial devices
+  * Work in a team to deliver the best quality for a product on an ongoing basis
+  * Responsible for software integration and installation to the devices
+  * Responsible for assessing quality and creating test strategies to ensure quality
+
+Graduation Prodrive Technologies (February 2019 - June 2019)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Develop a tool for finding potential shorts on PCBA
 * Develop a tool for testing shorts on a PCBA
@@ -52,7 +72,7 @@ Prodrive Technologies (February 2019 - now)
 Prodrive Technologies (October 2018 - February 2019)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Develop tests to automatically test PCBA
+* Develop tests to automatically test PCBAs
 
 Autarco (2017 - September 2018)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -60,13 +80,7 @@ Autarco (2017 - September 2018)
 * Improving documentation on development environment setup
 * Support getting automated testing up and running
 * Design and implementation of wiring diagram generation application from scratch
-* Design and implementation of custom json file to domain model parser
 * Develop and use tools to do hardware compliance testing
-
-Bepex Logistics (2016 - September 2018)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* Responsible for delivering packages to customers
 
 <<<
 
@@ -74,13 +88,13 @@ Bepex Logistics (2016 - September 2018)
 Projects
 --------
 
-*Potential Shorts Generator & Shorts Test Generator (2019-now)*
+*Potential Shorts Generator & Shorts Test Generator (2019)*
 
 * Analyze components on PCBA's to find potential shorts
 * Researching methods for doing effective shorts testing
 * Generating a shorts test for PCBA's
 
-*Bikeshift (2017-now)*
+*Bikeshift (2017-2018)*
 
 * Sensor module to gather air quality data when cycling
 * Low power IoT device
@@ -140,24 +154,18 @@ Languages and Technologies
 
 |===
 |*Programming Languages* |Python, C, C++,
-C#, php, Java, Kotlin, Go
+C#, Go
 
 |*Markup Languages* |Asciidoc, Markdown, LaTeX
 
 |*Version Control* |Git
 
-|*Work tracking tools* |JIRA, Scrumwise
-
-|*Software architecture* |Domain driven design
-
-|*Documentation methods* |SMART, STARR, UML, MoSCoW
-
-|*Reverse engineering* | Apktool
-
 |*Hardware* |Arduino, STM microcontroller, ESP8266 and ESP32,
-RP6 robot, cameras, different kinds of sensors, PLC
+cameras, different kinds of sensors
 
-|*Languages* |English, Dutch
+|*Languages* |English, Dutch, German (not fluent)
+
+|*Driver's license* |B
 |===
 
 [[hobbys]]
@@ -165,3 +173,4 @@ Hobbys
 ------
 
 Open source, gaming, reading, movies, walking, home automation
+
